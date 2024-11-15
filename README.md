@@ -7,6 +7,7 @@
 I’m currently diving deep into data structures, functional programming, networks, and more through my coursework.
 I have hands-on experience working in venture capital with Razor’s Edge Ventures, exploring trends in national security startups and technology investments.
 I founded Trash Titans, where I developed a website and provided a unique local trash can cleaning service to hundreds of homes over multiple summers.
+
 💻 Skills & Tools
 
 Programming Languages: Python, Java, OCaml, JavaScript, TypeScript, HTML, CSS, React
